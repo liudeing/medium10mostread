@@ -1,6 +1,5 @@
 # medium10mostread
 
-<<<<<<< HEAD
 medium阅读量最高的10篇翻译
 
 ## Medium software-engineering 文章阅读量前10翻译
@@ -19,7 +18,7 @@ medium阅读量最高的10篇翻译
 
 2. 爬取 https://medium.com/tag/software-engineering 所有文章，统计后获取拍手计数入数据库，找出前10的文章
 
-3. 直接翻译网站提供的 https://medium.com/tag/software-engineering 历年所有阅读量前10的文章，调用免费的谷歌翻译
+3. 直接翻译网站提供的 https://medium.com/tag/software-engineering 历年所有阅读量前10的文章，调用百度翻译API
 
 ### 下面实现第3种方案，主要实现翻译，生成PDF对应中英文文件。
 
@@ -37,8 +36,6 @@ https://github.com/aszx87410/medium-user-crawler
 
 https://github.com/Humoonruc/translate-pdf-node
 
-=======
->>>>>>> d1ba6d8 (init)
 ## Project setup
 ```
 npm install
