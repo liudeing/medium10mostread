@@ -1,15 +1,15 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <CreatePDF msg="medium阅读量最高的10篇文章翻译"/>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import CreatePDF from "@/components/CreatePDF.vue";
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    CreatePDF
   }
 }
 </script>
