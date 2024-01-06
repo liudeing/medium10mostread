@@ -1,5 +1,6 @@
 # medium10mostread
 
+<<<<<<< HEAD
 medium阅读量最高的10篇翻译
 
 ## Medium software-engineering 文章阅读量前10翻译
@@ -36,6 +37,8 @@ https://github.com/aszx87410/medium-user-crawler
 
 https://github.com/Humoonruc/translate-pdf-node
 
+=======
+>>>>>>> d1ba6d8 (init)
 ## Project setup
 ```
 npm install
